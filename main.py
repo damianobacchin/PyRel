@@ -86,3 +86,5 @@ print(f'Deviazione standard: {standard_deviation(data)}')
 print(f'Interpolazione I: {linear_interpolation(data)}')
 print(f'Interpolazione II: {linear_interpolation2(data)}')
 print(f'Chauvenet: {chauvenet(data, 10.3)}')
+
+file.close()
